@@ -1,6 +1,6 @@
 # <img style="height:35px;width:35px;margin-bottom:-6px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cornell_University_seal.svg/1200px-Cornell_University_seal.svg.png"> On Campus Affiliations
 
-### **Software Developer** @ [Cornell Design & Tech Initiative]() _(March 2022 - Present)_
+### **Technical Product Manager** @ [Cornell Design & Tech Initiative]() _(March 2022 - Present)_
 
 I joined Cornell DTI in Spring 2022 as a software developer at [Design @ Cornell](https://design.cornell.edu/)
 
