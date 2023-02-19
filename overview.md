@@ -16,7 +16,7 @@ I am looking for software engineering roles for spring 2023/summer 2023.
 **Bachelor's** in Computer Science & Mathematics
 `CS Major GPA: 4.0/4.0` `Math Major GPA: 4.0/4.0`
 
-**Relevant Coursework:** [Intro to Analysis of Algorithms\*](https://github.com/pratyush1712/cs4820), Intro to Machine Learning\*, [Object-Oriented Programming & Data Structures](https://github.com/pratyush1712/orb-game), Applicable Algebra, Discrete Structures, Multivariable Calculus, Linear Algebra, Engineering Applications of Operations Research
+**Relevant Coursework:** Systems Programming, [Intro to Analysis of Algorithms\*](https://github.com/pratyush1712/cs4820), Intro to Machine Learning\*, [Object-Oriented Programming & Data Structures (Java)](https://github.com/pratyush1712/orb-game), Computer Vision, Functional Programming (OCaml), Basic Probability, Applicable Algebra, Discrete Structures, Multivariable Calculus, Linear Algebra, Engineering Applications of Operations Research
 
 <hr />
 
@@ -62,8 +62,9 @@ Working on AskEarn - a website built to enable companies to hire and support neu
 
 ## Skills
 
-- **Programming Languages:** Python, Java, C, JavaScript, TypeScript
-- **Tools/Frameworks:** Git, AWS, Jira, Django, Flask, HTML/CSS, MATLAB, React, Redux, Mermaid.js, AWS, Node js, MongoDB, Flutter, Express, Google Cloud
+- **Programming Languages:** Python, Java, JavaScript/TypeScript, C, PHP, OCaml, C++
+- **Tools/Frameworks:** Git, AWS, Jira, Django, Flask, React.js, Redux.js, Next.js, Node.js, Flutter, Express, React Native, Expo
+- **DevOps/Database**: MySQL, DynamoDB, MongoDB, GraphQL, Prisma, Google Cloud Platform, AWS Amplify, AWS EC2, Docker, Redis
 - **Machine Learning:** TensorFlow, MediaPipe, NumPy, Pandas, Neural Networks, Sklearn, Pomegranate, Scikit-learn, OpenCV
 
 <hr />
