@@ -5,7 +5,10 @@
 `CS Major GPA: 4.0/4.0` `Math Major GPA: 4.0/4.0`
 
 - **Relevant Coursework:**
-
+  
+  - Systems Programming
+  - Computer Vision
+  - Functional Programming & Data Structures
   - [Intro Analysis of Algorithms\*](https://github.com/pratyush1712/cs4820)
   - Intro to Machine Learning\*
   - [Object-Oriented Programming & Data Structures](https://github.com/pratyush1712/orb-game)
