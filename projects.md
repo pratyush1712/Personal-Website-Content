@@ -1,6 +1,6 @@
 # 🧪 Projects
 
-## [Cornell Wushu - Club Website](https://cornellwushu.github.io) 🔗
+### [Cornell Wushu - Club Website](https://cornellwushu.github.io) 🔗
 
 [`Code 🔗`](https://github.com/cornellwushu/cornellwushu.github.io/)
 _Technologies Used:_ `React.js` `AWS Datastore` `AWS Amplify`
@@ -13,7 +13,7 @@ _Technologies Used:_ `React.js` `AWS Datastore` `AWS Amplify`
 
 <hr />
 
-## [CaseOwl](https://caseowl.in/) 🔗
+### [CaseOwl](https://caseowl.in/) 🔗
 
 _Technologies Used:_ `React` `Redux` `AWS Lambdas` `AWS S3` `AWS Cognito`
 
@@ -23,7 +23,7 @@ _Technologies Used:_ `React` `Redux` `AWS Lambdas` `AWS S3` `AWS Cognito`
 
 <hr />
 
-## [TimeBite](https://timebite.herokuapp.com/) 🔗
+### [TimeBite](https://timebite.herokuapp.com/) 🔗
 
 [`Code 🔗`](https://github.com/pratyush1712/Timebite-Backend/)
 _Technologies Used:_ `Flask` `Google-OR Tools` `HTML/CSS/JavaScript` `Heroku` `Docker` `Google Cloud Platform`
@@ -37,7 +37,7 @@ _Gained Experience In:_ `Optimization Algorithms` `Linear Programming Models`
 
 <hr />
 
-## Wi-Find 🔗
+### Wi-Find 🔗
 
 [`Frontend 🔗`](https://github.com/Archit404Error/WiFindMobile/)
 [`Backend 🔗`](https://github.com/Archit404Error/WiFindBackend/)
@@ -52,7 +52,7 @@ _Gained Experience In:_ `Clustering Algorithms`
 
 <hr />
 
-## [Face Detect](https://cornell-detection.herokuapp.com/) 🔗
+### [Face Detect](https://cornell-detection.herokuapp.com/) 🔗
 
 [`Code 🔗`](https://github.com/pratyush1712/face-detection/)
 _Technologies Used:_ `Flask` `Open-CV` `Haar-cascades` `React` `Heroku` `Docker`
@@ -66,7 +66,7 @@ _Gained Experience In:_ `Server-side Rendering` `Computer Vision`
 
 <hr />
 
-## [Find My Party](https://github.com/pratyush1712/find_my_party_backend/) 🔗
+### [Find My Party](https://github.com/pratyush1712/find_my_party_backend/) 🔗
 
 [`Code 🔗`](https://github.com/pratyush1712/find_my_party_backend/)
 _Technologies Used:_ `Flask` `SQL-Alchemy` `Docker` `Heroku`
