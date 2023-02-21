@@ -1,24 +1,18 @@
 # 📖 Overview
 
-<hr />
+### Summary
 
-## Summary
-
-Hi there! I am Pratyush Sudhakar, a sophomore at Cornell College of Engineering majoring in computer science and mathematics. I am interested in artificial intelligence, machine learning, mathematics, software development, and database modeling. I have been working on multiple projects to expand my knowledge in these fields.
+Hey there! My name is Pratyush Sudhakar, and I'm a sophomore studying computer science and mathematics at Cornell University. I have a strong passion for artificial intelligence, machine learning, mathematics, software development, and database modeling. In fact, I've been working on multiple projects to expand my knowledge in these areas! I'm looking for opportunities to further my skills and gain practical experience in a software engineering internship role. Thanks for taking the time to check out my portfolio!
 
 I am looking for software engineering roles for spring 2023/summer 2023.
 
-<hr />
-
 ## Education
 
-`2021-2024` [Cornell University](https://www.cornell.edu/)
+Cornell University
 **Bachelor's** in Computer Science & Mathematics
-`CS Major GPA: 4.0/4.0` `Math Major GPA: 4.0/4.0`
+`2021-2024` `CS Major GPA: 4.0/4.0` `Math Major GPA: 4.0/4.0`
 
 **Relevant Coursework:** Systems Programming, [Intro to Analysis of Algorithms\*](https://github.com/pratyush1712/cs4820), Intro to Machine Learning\*, [Object-Oriented Programming & Data Structures (Java)](https://github.com/pratyush1712/orb-game), Computer Vision, Functional Programming (OCaml), Basic Probability, Applicable Algebra, Discrete Structures, Multivariable Calculus, Linear Algebra, Engineering Applications of Operations Research
-
-<hr />
 
 ## Experience
 
@@ -48,17 +42,13 @@ Working on AskEarn - a website built to enable companies to hire and support neu
 
 - _**Technologies used:**_ `PHP` `Laravel` `Strapi` `Docker` `Redis` `MySQL` `AWS`
 
-<hr />
-
 ## On Campus Affiliations
 
-- [Cornell Design & Tech Initiative](https://www.cornelldti.org/) (Developer)
-- [Cornell Perfect Match](https://perfectmatch.ai/) (Developer)
+- [Cornell Design & Tech Initiative](https://www.cornelldti.org/) (Technical Product Manager)
+- [Cornell Perfect Match](https://perfectmatch.ai/) (Software Engineer)
 - [Cornell Wushu - Chinese Martials Arts Club](https://cornellwushu.github.io/) (Secretary)
 - Cornell Paintball Club (Team Member)\*
 - Cornell Undergraduate Math Club (Member)
-
-<hr />
 
 ## Skills
 
@@ -66,5 +56,3 @@ Working on AskEarn - a website built to enable companies to hire and support neu
 - **Tools/Frameworks:** Git, AWS, Jira, Django, Flask, React.js, Redux.js, Next.js, Node.js, Flutter, Express, React Native, Expo
 - **DevOps/Database**: MySQL, DynamoDB, MongoDB, GraphQL, Prisma, Google Cloud Platform, AWS Amplify, AWS EC2, Docker, Redis
 - **Machine Learning:** TensorFlow, MediaPipe, NumPy, Pandas, Neural Networks, Sklearn, Pomegranate, Scikit-learn, OpenCV
-
-<hr />
