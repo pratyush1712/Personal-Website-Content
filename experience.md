@@ -1,7 +1,5 @@
 # 👨‍💻 Experience
 
-<hr />
-
 ### **Software Engineering Intern** @ [SellPoint](https://www.sellpoint.io/) _(Jun 2022 - Aug 2022)_
 
 - **Detailed Description:**
