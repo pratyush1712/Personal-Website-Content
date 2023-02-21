@@ -1,6 +1,6 @@
 # 👨‍🎓 Education
 
-Cornell University
+Cornell University <br />
 **Bachelor's** in Computer Science & Mathematics <br />
 `2021-2024` `CS Major GPA: 4.0/4.0` `Math Major GPA: 4.0/4.0`
 
