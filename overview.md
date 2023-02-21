@@ -1,6 +1,6 @@
 # 📖 Overview
 
-### Summary
+## Summary
 
 Hey there! My name is Pratyush Sudhakar, and I'm a sophomore studying computer science and mathematics at Cornell University. I have a strong passion for artificial intelligence, machine learning, mathematics, software development, and database modeling. In fact, I've been working on multiple projects to expand my knowledge in these areas! I'm looking for opportunities to further my skills and gain practical experience in a software engineering internship role. Thanks for taking the time to check out my portfolio!
 
