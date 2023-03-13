@@ -30,7 +30,7 @@ In Spring 2023, I got promoted to be the Technical Product Manager of [Carriage]
 
 <hr />
 
-### **Software Engineer** @ [Cornell Perfect Match](https://perfectmatch.ai/) _(March 2022 - Present)_
+### **Co-Tech Lead** @ [Cornell Perfect Match](https://perfectmatch.ai/) _(March 2022 - Present)_
 
 - **Detailed Description:**
 
