@@ -45,7 +45,7 @@ Working on AskEarn - a website built to enable companies to hire and support neu
 ## On Campus Affiliations
 
 - [Cornell Design & Tech Initiative](https://www.cornelldti.org/) (Technical Product Manager)
-- [Cornell Perfect Match](https://perfectmatch.ai/) (Software Engineer)
+- [Cornell Perfect Match](https://perfectmatch.ai/) (Co-Tech Lead)
 - [Cornell Wushu - Chinese Martials Arts Club](https://cornellwushu.github.io/) (Secretary)
 - Cornell Paintball Club (Team Member)\*
 - Cornell Undergraduate Math Club (Member)
